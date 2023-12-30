@@ -6,9 +6,8 @@ A simple web application that allows users to toggle between dark and light mode
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Screenshot](#screenshot)
+- [Screenshot](#screenshots)
 - [Features](#features)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -17,7 +16,7 @@ A simple web application that allows users to toggle between dark and light mode
 Dark Mode Toggle is a web application that enhances user experience by providing the option to switch between dark and light modes. The application uses local storage to remember the user's preference even after a page refresh.
 
 ## Screenshots
-![Dark Mode Toggle](https://github.com/jamalsalim-js12/Currency-Convertor/blob/main/images/Currency%20Convertor.png)
+![Dark Mode Toggle](https://github.com/jamalsalim-js12/Dark-Mode-Toggle/blob/main/images/Dark-Mode-Toggle.png)
 
 ## Features
 
